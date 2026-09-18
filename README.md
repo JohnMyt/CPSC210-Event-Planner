@@ -1,6 +1,10 @@
+# UBC CPSC210 Academic Project
+
+This is a project I worked on for a UBC course.
+
 # My Personal Project
 
-## About My Prersonal Project
+## About My Personal Project
 
 I plan on designing a calender which allows you to create sports events on any day, note the scores
 of the sports events and view statistics on past sports events. The sports events should allow 
